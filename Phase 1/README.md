@@ -1,5 +1,3 @@
-# Learn_CSS
-
 ## CSS phase 1
 
 ### CSS External
