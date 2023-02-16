@@ -1,0 +1,12 @@
+li {
+  display: inline;
+}
+
+li a {
+  padding-right: 20px;
+}
+.box {
+  width: 30%;
+  box-sizing: border-box;
+  display: inline-block;
+}
